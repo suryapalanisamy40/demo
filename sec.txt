@@ -1,3 +1,5 @@
+from master branch
+conflict checking
 new branch created
 Second file created
 Hello
