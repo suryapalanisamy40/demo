@@ -1,3 +1,4 @@
+new branch created
 Second file created
 Hello
 Typing in both files and then commiting
