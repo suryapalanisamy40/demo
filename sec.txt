@@ -1,5 +1,5 @@
 conflict
-from master branch
+from master changing
 conflict checking
 new branch created
 Second file created
