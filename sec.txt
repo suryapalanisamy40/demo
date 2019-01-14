@@ -1,3 +1,4 @@
+conflict
 from master branch
 conflict checking
 new branch created
