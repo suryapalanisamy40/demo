@@ -1,7 +1,1 @@
-conflict
-from master problem
-conflict checking
-new branch created
-Second file created
-Hello
-Typing in both files and then commiting
+sorry im overiding your file
